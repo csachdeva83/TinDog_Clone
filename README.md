@@ -1,1 +1,1 @@
-TinDog Starting Files
+Responsive TinDog Website Clone
